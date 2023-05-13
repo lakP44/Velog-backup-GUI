@@ -13,6 +13,8 @@
 
 - 날짜순으로 폴더를 생성하는 기능이 추가되었습니다.
 
+</br>
+
 > ### [exe 파일](https://github.com/lakP44/Velog-backup-GUI/blob/main/velog_backup_GUI/velog_backupPy.exe)
 
 </br>
