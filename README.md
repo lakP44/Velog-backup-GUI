@@ -21,7 +21,7 @@
 
 - Select velog-backup Path에는 app.js가 존재하는 (git clone한) 폴더를 선택해주시면 됩니다.
 
-- 유저명은 필수입력이며 딜레이와 엑세스 토큰은 선택입니다. [참고](https://github.com/cjaewon/velog-backup)
+- 유저명은 필수입력이며 딜레이와 엑세스 토큰은 선택입니다. (꼭 버튼을 눌러서 입력해주셔야 합니다.) [참고](https://github.com/cjaewon/velog-backup)
 
 - 백업 폴더를 생성할 위치는 기본적으로 app.js가 존재하는 위치이며
 
