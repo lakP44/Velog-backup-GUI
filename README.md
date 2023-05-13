@@ -4,6 +4,10 @@
 
 </br>
 
+> ### [exe 파일](https://github.com/lakP44/Velog-backup-GUI/blob/main/velog_backup_GUI/velog_backupPy.exe)
+
+</br>
+
 # 추가된 기능
 
 <img src=https://github.com/lakP44/Velog-backup-GUI/assets/110088655/dd4a87f4-950d-412e-9e33-a88e6dd9c213>
@@ -12,10 +16,6 @@
 </br>
 
 - 날짜순으로 폴더를 생성하는 기능이 추가되었습니다.
-
-</br>
-
-> ### [exe 파일](https://github.com/lakP44/Velog-backup-GUI/blob/main/velog_backup_GUI/velog_backupPy.exe)
 
 </br>
 
