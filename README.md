@@ -21,5 +21,5 @@
 - 폴더를 선택시 아래와 같이 저장됩니다.
 
 > 선택한 폴더
-   ㄴ 유저명_velog_backup
-    ㄴ velog_backup_저장시각
+> > ㄴ 유저명_velog_backup
+> > > ㄴ velog_backup_저장시각
