@@ -4,7 +4,9 @@
 
 </br>
 
-> ### [0.0.1 exe 파일]()
+> ### [0.0.2](https://github.com/lakP44/Velog-backup-GUI/tree/main/0.0.2)
+
+> ### [0.0.1 exe 파일](https://github.com/lakP44/Velog-backup-GUI/tree/main/0.0.1/dist)
 
 </br>
 
@@ -31,6 +33,7 @@
 
 <img src=https://github.com/lakP44/Velog-backup-GUI/assets/110088655/dd4a87f4-950d-412e-9e33-a88e6dd9c213>
 
+</br>
 </br>
 
 - 날짜순으로 폴더를 생성하는 기능이 추가되었습니다.
