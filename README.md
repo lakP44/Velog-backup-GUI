@@ -6,7 +6,7 @@
 
 > ### [0.0.2](https://github.com/lakP44/Velog-backup-GUI/tree/main/0.0.2)
 
-> ### [0.0.1 exe 파일](https://github.com/lakP44/Velog-backup-GUI/tree/main/0.0.1/dist)
+>> ### [0.0.1 exe 파일](https://github.com/lakP44/Velog-backup-GUI/tree/main/0.0.1/dist)
 
 </br>
 
