@@ -4,13 +4,13 @@
 
 </br>
 
-> ### [0.0.2](https://github.com/lakP44/Velog-backup-GUI/tree/main/0.0.2)
+> ### [1.1.0](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.1.0)
 
->> ### [0.0.1 exe 파일](https://github.com/lakP44/Velog-backup-GUI/tree/main/0.0.1/dist)
+>> ### [1.0.0 exe 파일](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.0.0/dist)
 
 </br>
 
-# ver 0.0.2
+# ver 1.1.0
 
 ![image](https://github.com/lakP44/Velog-backup-GUI/assets/110088655/7c188eb9-cbb0-4ecf-85fc-b2411a7ac4be)
 
@@ -29,7 +29,7 @@
 
 </br>
 
-# 0.0.1 (이전버전)
+# 1.0.0 (이전버전)
 
 <img src=https://github.com/lakP44/Velog-backup-GUI/assets/110088655/dd4a87f4-950d-412e-9e33-a88e6dd9c213>
 
