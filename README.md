@@ -12,7 +12,7 @@
 
 
 <details>
-  <summary> # v 1.1.0</summary>
+  <summary><h2>v 1.1.0</h2></summary>
 
   ![image](https://github.com/lakP44/Velog-backup-GUI/assets/110088655/7c188eb9-cbb0-4ecf-85fc-b2411a7ac4be)
 
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary> # v 1.0.0</summary>
+  <summary><h2>v 1.0.0</h2></summary>
 
 <img src=https://github.com/lakP44/Velog-backup-GUI/assets/110088655/dd4a87f4-950d-412e-9e33-a88e6dd9c213>
 
