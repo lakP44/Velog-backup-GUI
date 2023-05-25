@@ -4,7 +4,7 @@
 
 </br>
 
-> ###[1.2.0](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.2.0/Portable)
+> ### [1.2.0](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.2.0/Portable)
 
 >> ### [1.1.0](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.1.0)
 
