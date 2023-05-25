@@ -4,7 +4,9 @@
 
 </br>
 
-> ### [1.1.0](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.1.0)
+> ###[1.2.0](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.2.0/Portable)
+
+>> ### [1.1.0](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.1.0)
 
 >> ### [1.0.0 exe 파일](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.0.0/dist)
 
