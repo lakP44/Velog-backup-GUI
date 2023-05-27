@@ -4,7 +4,7 @@
 
 </br>
 
-> ### [1.2.1 (실행파일 + readme)](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.2.0)
+> ### [1.2.1 (실행파일 + readme)](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.2.1)
 
 >> ### [1.1.0](https://github.com/lakP44/Velog-backup-GUI/tree/main/1.1.0)
 
